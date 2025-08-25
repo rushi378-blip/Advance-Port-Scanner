@@ -1,0 +1,23 @@
+# Advanced Port Scanner Dependencies
+# All dependencies are part of Python standard library
+# No additional packages required
+
+# Core dependencies (built-in):
+# - socket: Network communication
+# - threading: Multi-threading support
+# - concurrent.futures: Thread pool execution
+# - argparse: Command line argument parsing
+# - json: JSON data handling
+# - csv: CSV file operations
+# - datetime: Date and time operations
+# - ipaddress: IP address manipulation
+# - random: Random number generation
+# - struct: Binary data packing/unpacking
+
+# Optional dependencies for enhanced functionality:
+# - colorama: Colored terminal output (optional)
+# - rich: Rich text formatting (optional)
+# - scapy: Advanced packet manipulation (optional)
+
+# Install optional dependencies with:
+# pip install colorama rich scapy
